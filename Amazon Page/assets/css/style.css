@@ -1,0 +1,110 @@
+/* Your styles here */
+body {
+  width: 1500px;
+}
+
+.logo-1 {
+  background-color: rgb(35, 47, 62);
+}
+
+.option-div {
+  background-color: rgb(55, 71, 90);
+}
+
+.option-div h3 {
+  display: inline;
+  color: darkgray;
+  margin-left: 15px;
+}
+
+#orange-heading {
+  background-color: rgb(243, 79, 19);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#orange-heading h3 {
+  text-align: center;
+  color: white;
+}
+#top-image {
+  background-image: url(../images/bg-image.png);
+  padding: 60px;
+}
+
+#top-image h1 {
+  font-size: 1.8em;
+  color: rgb(241, 230, 230);
+  text-align: center;
+}
+
+#top-image h3 {
+  font-size: 0.8em;
+  color: rgb(241, 230, 230);
+  text-align: center;
+}
+
+#little-side-heading h2 {
+  display: inline;
+  font-size: 1.2em;
+}
+
+#little-side-heading h3 {
+  display: inline;
+  color: rgb(13, 106, 199);
+  margin-left: 20px;
+  font-size: 0.8em;
+}
+
+#images-id {
+  padding: 15px;
+}
+
+#images-id img {
+  height: 380px;
+  width: 330px;
+  border-radius: 8%;
+  margin-right: 15px;
+  margin-left: 15px;
+  box-shadow: 10px 5px 5px;
+}
+
+.section-image {
+  margin-top: 20px;
+}
+
+.section-image img {
+  width: 1500px;
+}
+
+.little-heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.little-heading h2 {
+  display: inline;
+}
+
+.little-heading h3 {
+  display: inline;
+  color: rgb(13, 106, 199);
+  margin-left: 25px;
+}
+
+#anchor-id {
+  text-align: center;
+  background-color: rgb(55, 71, 90);
+}
+
+#anchor-id a {
+  color: darkgray;
+}
+
+.logo-2 {
+  background-color: rgb(35, 47, 62);
+}
+
+.logo-2 img {
+  text-align: center;
+}
