@@ -120,6 +120,11 @@ body {
 
 .logo-2 {
   background-color: rgb(35, 47, 62);
+  padding: 40px;
+}
+
+#image-logo2 {
+  width: 150px;
 }
 
 footer {
