@@ -9,6 +9,10 @@ body {
   background-color: rgb(35, 47, 62);
 }
 
+#image-logo {
+  width: 150px;
+}
+
 .option-div {
   background-color: rgb(55, 71, 90);
 }
@@ -16,13 +20,14 @@ body {
 .option-div h3 {
   display: inline;
   color: darkgray;
-  margin-left: 15px;
+  margin-left: 18px;
 }
 
 #orange-heading {
   background-color: rgb(243, 79, 19);
   margin-top: 20px;
   margin-bottom: 20px;
+  padding: 8px;
 }
 
 #orange-heading h3 {
@@ -45,6 +50,12 @@ body {
   font-size: 0.8em;
   color: rgb(241, 230, 230);
   text-align: center;
+  font-weight: bold;
+}
+
+#little-side-heading {
+  background-color: white;
+  margin-top: 20px;
 }
 
 #little-side-heading h2 {
@@ -57,10 +68,12 @@ body {
   color: rgb(13, 106, 199);
   margin-left: 20px;
   font-size: 0.8em;
+  font-weight: bold;
 }
 
 #images-id {
   padding: 15px;
+  background-color: white;
 }
 
 #images-id img {
@@ -69,7 +82,7 @@ body {
   border-radius: 8%;
   margin-right: 15px;
   margin-left: 15px;
-  box-shadow: 10px 5px 5px;
+  box-shadow: 10px 5px 5px #c4c0c0;
 }
 
 .section-image {
@@ -93,6 +106,7 @@ body {
   display: inline;
   color: rgb(13, 106, 199);
   margin-left: 25px;
+  font-weight: bold;
 }
 
 #anchor-id {
@@ -106,4 +120,8 @@ body {
 
 .logo-2 {
   background-color: rgb(35, 47, 62);
+}
+
+footer {
+  text-align: center;
 }
